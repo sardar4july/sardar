@@ -60,7 +60,7 @@
 # from operator import itemgetter
 # x=[('Ahn', '20', '90'), ('Ony', '17', '91'), ('Jny', '17', '93'), ('Ahn', '20', '85'), ('Tom', '19', '80')]
 # print(sorted(x,key=itemgetter(0,1,2)))
-# print(sorted(x,key=lambda x:x[0] and x[1] and x[2]))
+
 # import os,string
 # if not os.path.exists('D:\heavy'):
 #  os.makedirs('D:\heavy')
